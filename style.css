@@ -276,7 +276,7 @@ section .title::after{
     content: "Fotos";
 }
 .skills .title::after{
-    content: "Detalhesc";
+    content: "Detalhes";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
